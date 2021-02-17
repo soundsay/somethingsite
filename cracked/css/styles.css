@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body, html {
+	background-color: gray;
+}
+
+.button {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: relative;
+	top: 400px
+}
+
+.video-popup {
+	padding: 30px 50px;
+	background-color: black;
+	border-radius: 10%;
+	color: white;
+	text-transform: uppercase;
+}
